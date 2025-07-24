@@ -1,0 +1,389 @@
+[
+    {
+        "content": "Unnamed: 1: Waffestry Menu"
+    },
+    {
+        "content": "Unnamed: 1: Category | Unnamed: 2: Belgian Waffle"
+    },
+    {
+        "content": "Unnamed: 2: Name | Unnamed: 3: Description | Unnamed: 4: Price"
+    },
+    {
+        "content": "Unnamed: 4: Variation"
+    },
+    {
+        "content": "Unnamed: 4: Classic | Unnamed: 5: Chocolate | Unnamed: 6: Red Velvet"
+    },
+    {
+        "content": "Unnamed: 2: Dark Chocolate Waffle | Unnamed: 3: Rich dark chocolate poured over crisp waffles, delivering a bold, bittersweet bite with every mouthful. | Unnamed: 4: 146 | Unnamed: 5: 161 | Unnamed: 6: 161"
+    },
+    {
+        "content": "Unnamed: 2: White Chocolate Waffle | Unnamed: 3: Velvety white chocolate coating over golden waffles \u2014 smooth, sweet, and melt-in-mouth indulgence. | Unnamed: 4: 146 | Unnamed: 5: 161 | Unnamed: 6: 161"
+    },
+    {
+        "content": "Unnamed: 2: Milk Chocolate Waffle | Unnamed: 3: Classic milk chocolate drizzled on freshly baked waffles, offering a silky, balanced chocolatey treat. | Unnamed: 4: 146 | Unnamed: 5: 161 | Unnamed: 6: 161"
+    },
+    {
+        "content": "Unnamed: 2: Nutella Waffle | Unnamed: 3: Loaded with creamy Nutella, this waffle melts into a hazelnut-chocolate fusion you\u2019ll crave again and again. | Unnamed: 4: 161 | Unnamed: 5: 176 | Unnamed: 6: 176"
+    },
+    {
+        "content": "Unnamed: 2: Oreo Waffle | Unnamed: 3: Crushed Oreos and cream atop warm waffles \u2014 soft, crunchy, and chocolatey in every bite. | Unnamed: 4: 161 | Unnamed: 5: 176 | Unnamed: 6: 176"
+    },
+    {
+        "content": "Unnamed: 2: Kitkat Waffle | Unnamed: 3: Topped with real KitKat chunks and drizzled with chocolate sauce, delivering a crisp and creamy contrast. | Unnamed: 4: 176 | Unnamed: 5: 190 | Unnamed: 6: 190"
+    },
+    {
+        "content": "Unnamed: 2: Double Chocolate Waffle | Unnamed: 3: A bold duo of dark and milk chocolate layers over crunchy waffles \u2014 intense, deep, and satisfying. | Unnamed: 4: 176 | Unnamed: 5: 190 | Unnamed: 6: 190"
+    },
+    {
+        "content": "Unnamed: 2: Triple Chocolate Waffle | Unnamed: 3: Milk, white, and dark chocolate come together in one waffle \u2014 rich, creamy, and perfectly balanced. | Unnamed: 4: 190 | Unnamed: 5: 205 | Unnamed: 6: 205"
+    },
+    {
+        "content": "Unnamed: 1: Category | Unnamed: 2: Ice cream sundae"
+    },
+    {
+        "content": "Unnamed: 2: Name | Unnamed: 3: Description | Unnamed: 4: Price"
+    },
+    {
+        "content": "Unnamed: 2: Death By Chocolate Ice Cream Sundae | Unnamed: 3: A chocolate lover\u2019s fantasy \u2014 layers of fudge, brownie, and chocolate ice cream drizzled with rich sauce. | Unnamed: 4: 219"
+    },
+    {
+        "content": "Unnamed: 2: Brownie With Ice Cream Sundae | Unnamed: 3: Warm brownie paired with velvety ice cream and chocolate drizzle \u2014 soft, gooey, and creamy in every spoon. | Unnamed: 4: 205"
+    },
+    {
+        "content": "Unnamed: 2: Butterscotch Fudge Delight Sundae | Unnamed: 3: Buttery butterscotch and fudge meet creamy ice cream in a nutty, caramel-loaded treat. | Unnamed: 4: 205"
+    },
+    {
+        "content": "Unnamed: 2: Nutella Brownie Ice Cream Sundae | Unnamed: 3: Fudgy brownie and creamy ice cream drizzled with thick Nutella for a nutty-choco burst. | Unnamed: 4: 205"
+    },
+    {
+        "content": "Unnamed: 2: Kids Special Ice Cream Sundae | Unnamed: 3: A playful mix of colorful sprinkles, scoops, and syrups \u2014 made to delight little taste buds. | Unnamed: 4: 219"
+    },
+    {
+        "content": "Unnamed: 1: Category | Unnamed: 2: Mini Pan Cakes | Unnamed: 4: Price"
+    },
+    {
+        "content": "Unnamed: 4: Variation"
+    },
+    {
+        "content": "Unnamed: 2: Name | Unnamed: 3: Description | Unnamed: 4: Classic | Unnamed: 5: Chocolate | Unnamed: 6: Red Velvet"
+    },
+    {
+        "content": "Unnamed: 2: Dark Chocolate Mini Pan Cake | Unnamed: 3: Rich dark chocolate drizzled over soft mini pancakes for a bittersweet finish in every bite. | Unnamed: 4: 132 | Unnamed: 5: 146 | Unnamed: 6: 146"
+    },
+    {
+        "content": "Unnamed: 2: Milk Chocolate Mini Pan Cake | Unnamed: 3: Fluffy mini pancakes layered with smooth milk chocolate \u2014 creamy, comforting, and crave-worthy. | Unnamed: 4: 132 | Unnamed: 5: 146 | Unnamed: 6: 146"
+    },
+    {
+        "content": "Unnamed: 2: White Chocolate Mini Pan Cake | Unnamed: 3: Soft mini pancakes topped with velvety white chocolate for a sweet and silky treat. | Unnamed: 4: 132 | Unnamed: 5: 146 | Unnamed: 6: 146"
+    },
+    {
+        "content": "Unnamed: 2: Double Chocolate Mini Pan Cake | Unnamed: 3: A rich duo of milk and dark chocolate over warm pancakes \u2014 soft, sweet, and deeply indulgent. | Unnamed: 4: 146 | Unnamed: 5: 161 | Unnamed: 6: 161"
+    },
+    {
+        "content": "Unnamed: 2: Triple Chocolate Mini Pan Cake | Unnamed: 3: A triple-layered dark chocolate dream on mini pancakes \u2014 deep, dense, and delicious. | Unnamed: 4: 161 | Unnamed: 5: 176 | Unnamed: 6: 176"
+    },
+    {
+        "content": "Unnamed: 2: Oreo Mini Pan Cake | Unnamed: 3: Crushed Oreos and chocolate sauce stacked over pancakes \u2014 a fun, crunchy, and creamy combo. | Unnamed: 4: 161 | Unnamed: 5: 176 | Unnamed: 6: 176"
+    },
+    {
+        "content": "Unnamed: 1: Category | Unnamed: 2: Milkshakes"
+    },
+    {
+        "content": "Unnamed: 2: Name | Unnamed: 3: Description | Unnamed: 4: Price"
+    },
+    {
+        "content": "Unnamed: 2: Vanilla Milk Shake | Unnamed: 3: Classic vanilla blended into a creamy, chilled shake \u2014 smooth, sweet, and timeless. | Unnamed: 4: 103"
+    },
+    {
+        "content": "Unnamed: 2: Strawberry Milk Shake | Unnamed: 3: Lush strawberry flavor swirled into a thick, fruity shake \u2014 refreshing and indulgent. | Unnamed: 4: 132"
+    },
+    {
+        "content": "Unnamed: 2: Butterscotch Milk Shake | Unnamed: 3: Buttery butterscotch mixed into a rich, creamy blend \u2014 sweet with a caramel crunch. | Unnamed: 4: 146"
+    },
+    {
+        "content": "Unnamed: 2: Oreo Milk Shake | Unnamed: 3: Crushed Oreos blended into a creamy shake \u2014 chocolatey, crunchy, and absolutely fun. | Unnamed: 4: 132"
+    },
+    {
+        "content": "Unnamed: 2: Brownie Milk Shake | Unnamed: 3: Fudgy brownie bits whipped into a chocolate shake \u2014 thick, rich, and crave-worthy. | Unnamed: 4: 146"
+    },
+    {
+        "content": "Unnamed: 2: Chocolate Milk Shake | Unnamed: 3: Pure chocolate flavor in every creamy sip \u2014 smooth, chilled, and deeply satisfying. | Unnamed: 4: 146"
+    },
+    {
+        "content": "Unnamed: 2: Nutella Milk Shake | Unnamed: 3: A creamy shake blended with Nutella \u2014 nutty, chocolatey, and deliciously thick. | Unnamed: 4: 146"
+    },
+    {
+        "content": "Unnamed: 2: Belgian Chips Milk Shake | Unnamed: 3: Belgian chocolate chips blended into a cold shake \u2014 smooth with bites of real chocolate. | Unnamed: 4: 146"
+    },
+    {
+        "content": "Unnamed: 2: Brownie Mud Milk Shake | Unnamed: 3: A bold blend of brownie chunks and chocolate base \u2014 thick, decadent, and dessert-like. | Unnamed: 4: 146"
+    },
+    {
+        "content": "Unnamed: 2: Ferrero Rocher Milk Shake | Unnamed: 3: Inspired by the iconic chocolate \u2014 a mix of hazelnut, cocoa, and crunch in every sip. | Unnamed: 4: 146"
+    },
+    {
+        "content": "Unnamed: 1: Category | Unnamed: 2: Fresh Juice"
+    },
+    {
+        "content": "Unnamed: 2: Name | Unnamed: 3: Description | Unnamed: 4: Price"
+    },
+    {
+        "content": "Unnamed: 2: Lemon Juice | Unnamed: 3: Freshly squeezed lemon juice served chilled \u2014 tangy, zesty, and instantly refreshing. | Unnamed: 4: 58"
+    },
+    {
+        "content": "Unnamed: 2: Mint Lemon Juice | Unnamed: 3: Classic lemon juice blended with mint leaves \u2014 cool, crisp, and naturally soothing. | Unnamed: 4: 58"
+    },
+    {
+        "content": "Unnamed: 2: Papaya Juice | Unnamed: 3: Smooth and mildly sweet papaya juice \u2014 creamy texture and tropical freshness in every sip. | Unnamed: 4: 73"
+    },
+    {
+        "content": "Unnamed: 2: Watermelon Juice | Unnamed: 3: Cold-pressed watermelon juice \u2014 light, juicy, and hydrating with every gulp. | Unnamed: 4: 73"
+    },
+    {
+        "content": "Unnamed: 2: Mosambi Juice (Sweet Lime) | Unnamed: 3: Naturally sweet and citrusy mosambi juice \u2014 served chilled for a clean, fruity finish. | Unnamed: 4: 73"
+    },
+    {
+        "content": "Unnamed: 2: Grape Juice | Unnamed: 3: Dark grape juice with a deep, fruity flavor \u2014 smooth, rich, and refreshing. | Unnamed: 4: 73"
+    },
+    {
+        "content": "Unnamed: 2: Orange Juice | Unnamed: 3: Bright, pulpy orange juice packed with citrusy flavor \u2014 sweet, tart, and zesty. | Unnamed: 4: 73"
+    },
+    {
+        "content": "Unnamed: 2: Pineapple Juice | Unnamed: 3: Tropical pineapple juice with a tangy-sweet twist \u2014 chilled and naturally energizing. | Unnamed: 4: 73"
+    },
+    {
+        "content": "Unnamed: 2: Sapota/Chikoo Juice | Unnamed: 3: A smooth fusion of chikoo and milk \u2014 thick, mellow, and dessert-like in every sip. Milk Added | Unnamed: 4: 73"
+    },
+    {
+        "content": "Unnamed: 2: Fig/Athi Juice | Unnamed: 3: Pure fig juice with a smooth, fruity base \u2014 a mellow drink with a unique flavor finish. Milk Added | Unnamed: 4: 73"
+    },
+    {
+        "content": "Unnamed: 2: Banana Juice | Unnamed: 3: Blended banana with chilled milk \u2014 thick, smooth, and naturally filling. Milk Added | Unnamed: 4: 73"
+    },
+    {
+        "content": "Unnamed: 2: Red Banana Juice | Unnamed: 3: Creamy red banana shake with milk \u2014 rich, sweet, and full-bodied in flavor. Milk Added. | Unnamed: 4: 73"
+    },
+    {
+        "content": "Unnamed: 1: Category | Unnamed: 2: Cold Coffee"
+    },
+    {
+        "content": "Unnamed: 2: Name | Unnamed: 3: Description | Unnamed: 4: Price"
+    },
+    {
+        "content": "Unnamed: 2: Classic Cold Coffee | Unnamed: 3: Bold coffee blended with milk and ice \u2014 smooth, creamy, and instantly refreshing. | Unnamed: 4: 132"
+    },
+    {
+        "content": "Unnamed: 2: Kitkat Coffee | Unnamed: 3: Crunchy KitKat blended into chilled coffee \u2014 cool, chocolatey, and irresistible. | Unnamed: 4: 146"
+    },
+    {
+        "content": "Unnamed: 2: Caramel Coffee | Unnamed: 3: Creamy cold coffee infused with golden caramel \u2014 rich, sweet, and smooth. | Unnamed: 4: 146"
+    },
+    {
+        "content": "Unnamed: 2: Nutella Coffee | Unnamed: 3: Chilled coffee blended with Nutella for a nutty chocolate twist in every sip. | Unnamed: 4: 146"
+    },
+    {
+        "content": "Unnamed: 1: Category | Unnamed: 2: Burger"
+    },
+    {
+        "content": "Unnamed: 2: Name | Unnamed: 3: Description | Unnamed: 4: Price"
+    },
+    {
+        "content": "Unnamed: 2: Veg Burger | Unnamed: 3: Crispy veggie patty with lettuce, sauces, and soft buns \u2014 fresh and satisfying. | Unnamed: 4: 117"
+    },
+    {
+        "content": "Unnamed: 2: Veg Double Patty Burger | Unnamed: 3: Double the veg patties stacked in a loaded burger \u2014 crunchy, juicy, and filling. | Unnamed: 4: 146"
+    },
+    {
+        "content": "Unnamed: 2: Veg Paneer Cheese Burger | Unnamed: 3: Spicy paneer and melted cheese in a soft burger bun \u2014 creamy and flavorful. | Unnamed: 4: 146"
+    },
+    {
+        "content": "Unnamed: 2: Chicken Burger | Unnamed: 3: Juicy chicken patty grilled to perfection \u2014 savory, tender, and sauce-loaded. | Unnamed: 4: 146"
+    },
+    {
+        "content": "Unnamed: 2: Chicken Double Patty Burger | Unnamed: 3: Two crispy chicken patties layered with cheese and sauce \u2014 hearty and bold. | Unnamed: 4: 190"
+    },
+    {
+        "content": "Unnamed: 1: Category | Unnamed: 2: Sandwich"
+    },
+    {
+        "content": "Unnamed: 2: Name | Unnamed: 3: Description | Unnamed: 4: Price"
+    },
+    {
+        "content": "Unnamed: 2: Grilled Veg Sandwich | Unnamed: 3: Toasted sandwich stuffed with grilled veggies and spicy sauces \u2014 smoky and satisfying."
+    },
+    {
+        "content": "Unnamed: 2: Corn N Cheese Sandwich | Unnamed: 3: Sweet corn and gooey cheese grilled into warm, crispy bread \u2014 soft, rich, and golden."
+    },
+    {
+        "content": "Unnamed: 2: Panner N Cheese Sandwich | Unnamed: 3: Soft paneer and molten cheese inside grilled bread \u2014 creamy, spiced, and toasty."
+    },
+    {
+        "content": "Unnamed: 2: Veg Chill Cheese Sandwich | Unnamed: 3: Spicy chilli and melted cheese grilled into a flavorful veg sandwich."
+    },
+    {
+        "content": "Unnamed: 2: Chicken Sandwich | Unnamed: 3: Sliced chicken with herbs and cheese in a grilled sandwich \u2014 warm and juicy."
+    },
+    {
+        "content": "Unnamed: 2: Chocolate Banana Sandwich | Unnamed: 3: Banana slices with chocolate spread between toasted bread \u2014 sweet and indulgent."
+    },
+    {
+        "content": "Unnamed: 2: Bread Omelette | Unnamed: 3: Fluffy omelette sandwiched between buttery toasted bread \u2014 quick, warm, and filling."
+    },
+    {
+        "content": "Unnamed: 1: Category | Unnamed: 2: Maggie"
+    },
+    {
+        "content": "Unnamed: 2: Name | Unnamed: 3: Description | Unnamed: 4: Price"
+    },
+    {
+        "content": "Unnamed: 2: Plain Maggie | Unnamed: 3: Classic masala Maggie served hot \u2014 soft, spiced, and nostalgic. | Unnamed: 4: 73"
+    },
+    {
+        "content": "Unnamed: 2: Egg Maggie | Unnamed: 3: Spiced Maggie with scrambled eggs \u2014 flavorful, fluffy, and comfort-filled. | Unnamed: 4: 87"
+    },
+    {
+        "content": "Unnamed: 2: Veg N Cheese Maggie | Unnamed: 3: Loaded with veggies and cheese \u2014 creamy, spicy, and a true hunger buster. | Unnamed: 4: 87"
+    },
+    {
+        "content": "Unnamed: 1: Category | Unnamed: 2: Momo"
+    },
+    {
+        "content": "Unnamed: 2: Name | Unnamed: 3: Description | Unnamed: 4: Price"
+    },
+    {
+        "content": "Unnamed: 4: Variation"
+    },
+    {
+        "content": "Unnamed: 4: Steamed | Unnamed: 5: Fried"
+    },
+    {
+        "content": "Unnamed: 2: Veg Momos | Unnamed: 3: Steamed dumplings filled with fresh vegetables \u2014 soft and savory. | Unnamed: 4: 103 | Unnamed: 5: 103"
+    },
+    {
+        "content": "Unnamed: 2: Paneer Momos | Unnamed: 3: Momos stuffed with spiced paneer \u2014 creamy and delicately seasoned. | Unnamed: 4: 117 | Unnamed: 5: 117"
+    },
+    {
+        "content": "Unnamed: 2: Mushroom Momos | Unnamed: 3: Juicy mushrooms wrapped in thin momo skin \u2014 earthy and mildly spiced. | Unnamed: 4: 117 | Unnamed: 5: 117"
+    },
+    {
+        "content": "Unnamed: 2: Chicken Momos | Unnamed: 3: Classic chicken-stuffed momos \u2014 tender, hot, and served with chutney. | Unnamed: 4: 146 | Unnamed: 5: 146"
+    },
+    {
+        "content": "Unnamed: 1: Category | Unnamed: 2: Short Eats / Fries"
+    },
+    {
+        "content": "Unnamed: 2: Name | Unnamed: 3: Description | Unnamed: 4: Price"
+    },
+    {
+        "content": "Unnamed: 2: French Fries | Unnamed: 3: Crisp golden fries with a salty crunch \u2014 classic and crowd-pleasing. | Unnamed: 4: 103"
+    },
+    {
+        "content": "Unnamed: 2: Peri Peri Fries | Unnamed: 3: French fries dusted with peri-peri spice \u2014 bold, hot, and addictive. | Unnamed: 4: 103"
+    },
+    {
+        "content": "Unnamed: 2: Masala Fries | Unnamed: 3: Indian-style spiced fries \u2014 tangy, crispy, and full of masaledar flavor. | Unnamed: 4: 103"
+    },
+    {
+        "content": "Unnamed: 2: Chilli Garlic Pops | Unnamed: 3: Crispy pops tossed in chilli garlic sauce \u2014 crunchy and fiery. | Unnamed: 4: 103"
+    },
+    {
+        "content": "Unnamed: 2: Chicken Wings | Unnamed: 3: Juicy chicken wings cooked till crisp \u2014 spicy, saucy, and finger-licking. | Unnamed: 4: 220"
+    },
+    {
+        "content": "Unnamed: 2: Chicken Bites | Unnamed: 3: Tender boneless chicken bites \u2014 lightly battered and perfectly seasoned. | Unnamed: 4: 146"
+    },
+    {
+        "content": "Unnamed: 2: Chicken Popcorn | Unnamed: 3: Bite-sized chicken nuggets \u2014 crunchy outside, juicy inside, perfect for snacking. | Unnamed: 4: 146"
+    },
+    {
+        "content": "Unnamed: 1: Category | Unnamed: 2: Mojito / Coolers"
+    },
+    {
+        "content": "Unnamed: 2: Name | Unnamed: 3: Description | Unnamed: 4: Price"
+    },
+    {
+        "content": "Unnamed: 2: Virgin Mojito | Unnamed: 3: A zesty blend of mint and lime \u2014 chilled, fizzy, and totally refreshing. | Unnamed: 4: 117"
+    },
+    {
+        "content": "Unnamed: 2: Blue Corracco Mojito | Unnamed: 3: Mojito with a blue twist \u2014 citrusy, cool, and visually stunning. | Unnamed: 4: 117"
+    },
+    {
+        "content": "Unnamed: 2: Mint Lemon Mojito | Unnamed: 3: Lemon and mint fused into a classic mojito \u2014 crisp, tangy, and chilled. | Unnamed: 4: 117"
+    },
+    {
+        "content": "Unnamed: 2: Mint Lime Crusher | Unnamed: 3: Crushed ice, mint, and lime \u2014 punchy, icy, and super refreshing. | Unnamed: 4: 73"
+    },
+    {
+        "content": "Unnamed: 2: Lemon Soda | Unnamed: 3: Sparkling lemon soda \u2014 bubbly, sharp, and thirst-quenching. | Unnamed: 4: 73"
+    },
+    {
+        "content": "Unnamed: 1: Category | Unnamed: 2: Falooda"
+    },
+    {
+        "content": "Unnamed: 2: Name | Unnamed: 3: Description | Unnamed: 4: Price"
+    },
+    {
+        "content": "Unnamed: 2: Fruit Falooda | Unnamed: 3: Mixed fruit layers with chilled falooda, sweet syrup, and creamy ice cream \u2014 vibrant and refreshing. | Unnamed: 4: 176"
+    },
+    {
+        "content": "Unnamed: 2: Berry Falooda | Unnamed: 3: A fruity blend of berries, falooda strands, and chilled milk \u2014 sweet, tangy, and indulgent. | Unnamed: 4: 190"
+    },
+    {
+        "content": "Unnamed: 2: Chocolate Falooda | Unnamed: 3: Chocolate sauce, falooda, and ice cream in every spoon \u2014 rich, layered, and deeply satisfying. | Unnamed: 4: 220"
+    },
+    {
+        "content": "Unnamed: 2: Royal Falooda | Unnamed: 3: A royal mix of nuts, ice cream, falooda, and syrup \u2014 rich, creamy, and full of texture. | Unnamed: 4: 220"
+    },
+    {
+        "content": "Unnamed: 2: Mango Falooda (Seasonal) | Unnamed: 3: Mango-flavored falooda with chilled layers \u2014 fruity, chewy, and satisfying. | Unnamed: 4: 220"
+    },
+    {
+        "content": "Unnamed: 1: Category | Unnamed: 2: Combo"
+    },
+    {
+        "content": "Unnamed: 2: Name | Unnamed: 3: Description | Unnamed: 4: Price"
+    },
+    {
+        "content": "Unnamed: 2: Frech Fries & Oreo Milkshake | Unnamed: 3: Salty fries paired with a rich Oreo shake \u2014 the perfect combo of crunch and cream. | Unnamed: 4: 145"
+    },
+    {
+        "content": "Unnamed: 2: Classic Waffle, Veg Cheese Burger, French Fries & Vanilla Milk Shake | Unnamed: 3: A full meal combo with waffle, cheesy veg burger, crispy fries & creamy vanilla shake \u2014 satisfying and indulgent. | Unnamed: 4: 291"
+    },
+    {
+        "content": "Unnamed: 2: Classic Waffle, Veg Cheese Sandwich French Fries & Vanilla Milk Shake | Unnamed: 3: Soft waffle, toasted veg cheese sandwich, fries and shake \u2014 perfect for a hearty snack craving. | Unnamed: 4: 291"
+    },
+    {
+        "content": "Unnamed: 2: Classic Waffle, Chicken Bites & Vanilla Milk Shake | Unnamed: 3: Golden waffle with crispy chicken bites and vanilla shake \u2014 a savory-sweet combo worth biting into. | Unnamed: 4: 291"
+    },
+    {
+        "content": "Unnamed: 2: Classic Waffle, Veg Momos & Vanilla Milk Shake | Unnamed: 3: Waffle, steamed veg momos & creamy shake \u2014 a unique and flavorful pairing. | Unnamed: 4: 291"
+    },
+    {
+        "content": "Unnamed: 2: Classic Waffle, French Fries & Vanilla Milk Shake | Unnamed: 3: The ultimate trio \u2014 crispy fries, soft waffle, and smooth vanilla milkshake in one delicious box. | Unnamed: 4: 218"
+    },
+    {
+        "content": "Unnamed: 1: Category | Unnamed: 2: Ice cream Scoops"
+    },
+    {
+        "content": "Unnamed: 2: Name | Unnamed: 3: Description | Unnamed: 4: Price"
+    },
+    {
+        "content": "Unnamed: 4: Variation"
+    },
+    {
+        "content": "Unnamed: 4: Single Scoop | Unnamed: 5: Double Scoop"
+    },
+    {
+        "content": "Unnamed: 2: Vanilla Ice-Cream | Unnamed: 3: Classic and smooth vanilla ice cream \u2014 soft, creamy, and universally loved. | Unnamed: 4: 73 | Unnamed: 5: 88"
+    },
+    {
+        "content": "Unnamed: 2: Chocolate Ice-Cream | Unnamed: 3: Rich and creamy chocolate ice cream with a deep cocoa taste and silky finish. | Unnamed: 4: 88 | Unnamed: 5: 146"
+    },
+    {
+        "content": "Unnamed: 2: Strawberry Ice-Cream | Unnamed: 3: Lush strawberry-flavored ice cream made for sweet, fruity indulgence. | Unnamed: 4: 88 | Unnamed: 5: 146"
+    },
+    {
+        "content": "Unnamed: 2: Butterscotch Ice-Cream | Unnamed: 3: Creamy butterscotch ice cream loaded with crunchy caramel bits for a perfect blend of texture and taste. | Unnamed: 4: 102 | Unnamed: 5: 176"
+    }
+]

@@ -1,5 +1,0 @@
-openai
-langchain
-chromadb
-streamlit
-python-dotenv
