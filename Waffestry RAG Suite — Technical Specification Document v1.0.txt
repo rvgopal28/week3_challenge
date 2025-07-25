@@ -1,0 +1,62 @@
+Project Specification Document - Waffestry RAG Suite
+Project Name:
+Waffestry AI — Smart Café Assistant
+Objective:
+Build an AI-driven assistant for Waffestry café that leverages Retrieval-Augmented Generation (RAG) architectures to answer queries about menus, offers, SOPs, vendors, etc.
+
+RAG Modules Implemented:
+1. Self-RAG
+* Uses LLM for confident answers.
+* Falls back on retrieval only if LLM is uncertain.
+2. Corrective RAG
+* Verifies initial LLM answers.
+* Triggers retrieval correction if needed.
+3. Corrective RAG v2
+* Context Evaluation (Relevance, Completeness, Accuracy, Specificity).
+* Triggers refined retrieval correction flow.
+4. Fallback RAG
+* Multi-level fallback retrieval:
+    * Vector Search
+    * Keyword Expansion
+    * Semantic Expansion
+    * Cross-Domain (LLM Knowledge)
+    * Partial Answer Fallback
+5. Web Search RAG
+* Hybrid retrieval combining internal knowledge with real-time web search.
+6. Adaptive RAG
+* Dynamic retrieval adjustments based on query complexity, user context, task type, etc.
+
+System Components:
+1. LangChain + OpenAI (LLMs)
+2. ChromaDB Vector Storage
+3. Streamlit Web UI
+4. Python Utilities for Context Evaluation & Response Formatting
+
+UI Flow:
+* Landing Page with Waffestry Branding.
+* RAG Mode Selection Buttons.
+* Suggestion Questions per Mode.
+* Dynamic Input Section.
+* Response Display with User-Friendly Formatting.
+* Back Navigation.
+
+Project Highlights:
+* Modular RAG Implementations.
+* Adaptive User Experience (Beginner to Expert).
+* Robust Fallbacks to handle missing data.
+* Clean, branded Streamlit UI.
+* Real-time search augmentations.
+
+Future Scope:
+* WhatsApp Chatbot Integration.
+* Admin Panel for SOP/Menu Updates.
+* Inventory Order Automation for Vendors.
+* Analytics Dashboard for Query Trends.
+
+Version:
+Waffestry RAG Suite v1.0 (July 2025)
+Stakeholders:
+* Product Owner: Venugopal Ravi
+* Dev Team: [Your Team Name]
+
+End of Specification Document.
