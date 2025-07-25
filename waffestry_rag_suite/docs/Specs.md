@@ -1,0 +1,1 @@
+# Specification Document for Waffestry RAG Suite

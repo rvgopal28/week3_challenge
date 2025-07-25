@@ -1,98 +1,97 @@
-# Waffestry RAG Suite 🧇 — Self-RAG & Corrective-RAG
+# README.md - Waffestry RAG Suite
 
-This project demonstrates how to build **Self-RAG** and **Corrective-RAG** pipelines using **LangChain + OpenAI + ChromaDB + Streamlit** for Waffestry's Cafe Automation.
+## Project Name:
 
----
+**Waffestry AI — Smart Café Assistant**
 
-## 🗂️ Project Structure
+## Overview:
 
-```
-waffestry_rag_app/
-├── main.py                    # Streamlit UI
-├── self_rag_chain.py          # Self-RAG logic
-├── corrective_rag_chain.py    # Corrective-RAG logic
-├── verifier_prompt.py         # Verifier prompt template
-├── utils.py                   # Helper utilities (uncertainty checks)
-├── chroma_db.py               # ChromaDB Loader
-├── ingest_data.py             # Data ingestion script
-├── data/
-│   └── chunks.json            # Your SOP/Menu data in chunks
-├── requirements.txt
-└── .env                       # OpenAI API Key
-```
+An AI-powered assistant for Waffestry café that answers customer/staff queries using advanced Retrieval-Augmented Generation (RAG) methods.
 
 ---
 
-## 🛠️ Setup Instructions
+## Features:
 
-### 1. Clone Repo & Install Dependencies
+* Self-RAG
+* Corrective RAG
+* Corrective RAG v2
+* Fallback RAG
+* Web Search RAG
+* Adaptive RAG
+
+---
+
+## Prerequisites:
+
+* Python 3.10+
+* ChromaDB
+* OpenAI API Key
+
+## Installation:
+
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Add OpenAI API Key
-Create a `.env` file and paste:
+## Environment Variables:
+
+Create a `.env` file:
+
 ```
-OPENAI_API_KEY=your-openai-key-here
+OPENAI_API_KEY=sk-xxxxx
 ```
 
-### 3. Prepare Data
-- Place your Waffestry SOP/Menu chunks in `data/chunks.json`
-  ```json
-  [
-    {"content": "Mango Waffle is made using fresh mango pulp..."},
-    {"content": "Inventory SOP: Always order butter from Vendor A..."}
-  ]
-  ```
+## Preparing ChromaDB:
 
-### 4. Ingest Data into Chroma VectorDB
+Ensure `chunks.json` is available in `data/`. Ingest data:
+
 ```bash
 python ingest_data.py
 ```
-This will create a local `chroma_db/` directory with your vector store.
 
-### 5. Run the Streamlit App
+## Running the App:
+
 ```bash
 streamlit run main.py
 ```
 
----
+## Usage:
 
-## 🎮 How to Use
-1. Select RAG Type: **Self-RAG** or **Corrective-RAG**
-2. Ask a question (e.g., "Do you have gluten-free waffles?")
-3. The system will display:
-   - Initial LLM Answer
-   - Whether RAG was triggered
-   - Corrected answer (if hallucination detected)
+1. Select a RAG Type.
+2. Choose or type a query.
+3. Submit and view responses.
+4. Use Back button to change modes.
 
----
+## Folder Structure:
 
-## 🧠 RAG Types Explained
-| Type            | Behavior | Use Case |
-|-----------------|----------|----------|
-| **Self-RAG**    | LLM tries from memory, triggers retrieval if unsure | Customer FAQ Bot |
-| **Corrective-RAG** | LLM generates, Verifier fact-checks, RAG corrects if needed | Allergy & Ingredient Info Bot |
-
----
-
-## 📦 Dependencies
 ```
-openai
-langchain
-chromadb
-streamlit
-python-dotenv
+waffestry_rag_suite/
+├── main.py
+├── self_rag_chain.py
+├── corrective_rag_chain.py
+├── corrective_rag_v2_chain.py
+├── fallback_rag_chain.py
+├── web_search_rag_chain.py
+├── adaptive_rag_chain.py
+├── response_formatter.py
+├── utils.py
+├── chroma_db.py
+├── ingest_data.py
+├── data/
+│   ├── chunks.json
+│   └── waffestry_logo.png
+├── requirements.txt
+└── README.md
 ```
 
+## License:
+
+MIT License.
+
+## Contact:
+
+[https://waffestry.com](https://waffestry.com) | @waffestry
+
 ---
 
-## 🚀 Next Steps
-- Add Fusion-RAG for SOP multi-doc synthesis
-- Integrate WhatsApp API for order workflows
-- Analytics dashboard using Adaptive RAG
-
----
-
-## 📬 Contact
-For queries or collaborations, reach out to **Waffestry AI Team**
+End of README
